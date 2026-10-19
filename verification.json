@@ -1,0 +1,48 @@
+{
+  "desktop": {
+    "width": 1440,
+    "documentWidth": 1440,
+    "height": 8336,
+    "images": [
+      {
+        "src": "images/logo.webp",
+        "loaded": true
+      },
+      {
+        "src": "images/salon.webp",
+        "loaded": true
+      },
+      {
+        "src": "images/lit.webp",
+        "loaded": true
+      },
+      {
+        "src": "images/salle-de-bains.webp",
+        "loaded": true
+      },
+      {
+        "src": "images/mascotte.webp",
+        "loaded": true
+      },
+      {
+        "src": "images/logo.webp",
+        "loaded": true
+      }
+    ]
+  },
+  "tablet_overflow": false,
+  "mobile_overflow": false,
+  "narrow_320_overflow": false,
+  "menu_open": true,
+  "menu_closes_on_navigation": true,
+  "service_preselection": "Nettoyage de locations saisonnières et Airbnb",
+  "quote_demo_message": true,
+  "contact_demo_message": true,
+  "submit_keeps_url": true,
+  "legal_opens": true,
+  "broken_anchors": [],
+  "javascript_errors": [],
+  "all_images_loaded": true,
+  "standalone_images_loaded": true,
+  "external_requests": []
+}
